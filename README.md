@@ -57,5 +57,3 @@ Submit a Pull Request 🔧 with an improvement.
 
 🔗 Connect
 GitHub: tharun-37
-
-LeetCode: My LeetCode Profile (Add your profile link here)
